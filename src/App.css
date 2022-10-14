@@ -3,7 +3,7 @@
 }
 
 .App-logo {
-  height: 40vmin;
+  height: 20vmin;
   pointer-events: none;
 }
 
@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.text {
+  margin: 20px;
+}
+
+.startbutton {
+  display: flex;
+}
+

@@ -1,0 +1,4320 @@
+{
+    "engpol": [
+        {
+            "id": 1,
+            "polish": "tam jest",
+            "english": "there is"
+        },
+        {
+            "id": 2,
+            "polish": "wścibski",
+            "english": "nosy"
+        },
+        {
+            "id": 3,
+            "polish": "robić pracę domową",
+            "english": "do a houseworks"
+        },
+        {
+            "id": 4,
+            "polish": "niedawno",
+            "english": "recently"
+        },
+        {
+            "id": 5,
+            "polish": "kto",
+            "english": "who"
+        },
+        {
+            "id": 6,
+            "polish": "znudzić się",
+            "english": "get bored"
+        },
+        {
+            "id": 7,
+            "polish": "fabuła",
+            "english": "plot"
+        },
+        {
+            "id": 8,
+            "polish": "przerażający",
+            "english": "frightening"
+        },
+        {
+            "id": 9,
+            "polish": "nietypowy",
+            "english": "unusual"
+        },
+        {
+            "id": 10,
+            "polish": "średni",
+            "english": "average"
+        },
+        {
+            "id": 11,
+            "polish": "podczas",
+            "english": "while"
+        },
+        {
+            "id": 12,
+            "polish": "obsadzić",
+            "english": "star in"
+        },
+        {
+            "id": 13,
+            "polish": "na pewno",
+            "english": "for sure"
+        },
+        {
+            "id": 14,
+            "polish": "jeleń",
+            "english": "deer"
+        },
+        {
+            "id": 15,
+            "polish": "na dwóch nogach",
+            "english": "on two feet"
+        },
+        {
+            "id": 16,
+            "polish": "wyobrazić",
+            "english": "imagine"
+        },
+        {
+            "id": 17,
+            "polish": "o to w tym chodzi",
+            "english": "that's the point"
+        },
+        {
+            "id": 18,
+            "polish": "wyprawa/podróż",
+            "english": "journey"
+        },
+        {
+            "id": 19,
+            "polish": "wynająć",
+            "english": "rent"
+        },
+        {
+            "id": 20,
+            "polish": "remontować",
+            "english": "renovate"
+        },
+        {
+            "id": 21,
+            "polish": "pokazać",
+            "english": "show"
+        },
+        {
+            "id": 22,
+            "polish": "wiedza",
+            "english": "knowledge"
+        },
+        {
+            "id": 23,
+            "polish": "zdolności",
+            "english": "abilities"
+        },
+        {
+            "id": 24,
+            "polish": "opuszczać",
+            "english": "leave"
+        },
+        {
+            "id": 25,
+            "polish": "sprzedaż",
+            "english": "sales"
+        },
+        {
+            "id": 26,
+            "polish": "odpowiedzialny za",
+            "english": "in charge of"
+        },
+        {
+            "id": 27,
+            "polish": "zagraniczni",
+            "english": "foreign"
+        },
+        {
+            "id": 28,
+            "polish": "wyrażać",
+            "english": "express"
+        },
+        {
+            "id": 29,
+            "polish": "wstawać z łóżka",
+            "english": "get up"
+        },
+        {
+            "id": 30,
+            "polish": "kapusta",
+            "english": "cabbage"
+        },
+        {
+            "id": 31,
+            "polish": "zmyślić",
+            "english": "make up"
+        },
+        {
+            "id": 32,
+            "polish": "zobaczyć",
+            "english": "see"
+        },
+        {
+            "id": 33,
+            "polish": "łączyć/pasować",
+            "english": "match"
+        },
+        {
+            "id": 34,
+            "polish": "przesyłka",
+            "english": "delivery"
+        },
+        {
+            "id": 35,
+            "polish": "zdziwiony",
+            "english": "shocked"
+        },
+        {
+            "id": 36,
+            "polish": "niepewny",
+            "english": "unsure"
+        },
+        {
+            "id": 37,
+            "polish": "zdezorientowany",
+            "english": "confused"
+        },
+        {
+            "id": 38,
+            "polish": "kłócić się",
+            "english": "argue(argju)"
+        },
+        {
+            "id": 39,
+            "polish": "chodzić na spacer",
+            "english": "go far a walk"
+        },
+        {
+            "id": 40,
+            "polish": "nazywać się",
+            "english": "is called"
+        },
+        {
+            "id": 41,
+            "polish": "odmawiać",
+            "english": "refuse"
+        },
+        {
+            "id": 42,
+            "polish": "śmieciowe jedzenie",
+            "english": "junk food"
+        },
+        {
+            "id": 43,
+            "polish": "owsianka z orzechami",
+            "english": "oatmeal with nuts"
+        },
+        {
+            "id": 44,
+            "polish": "innymi słowy",
+            "english": "in other words"
+        },
+        {
+            "id": 45,
+            "polish": "nadążam",
+            "english": "I follow you"
+        },
+        {
+            "id": 46,
+            "polish": "nie jestem pewien co masz na myśli",
+            "english": "I'm not quite sure I know what you mean"
+        },
+        {
+            "id": 47,
+            "polish": "Mógłbyś to znów powiedzieć?",
+            "english": "Could you say that again please?"
+        },
+        {
+            "id": 48,
+            "polish": "przepraszam pozwól mi wyjaśnić",
+            "english": "sorry let me explain"
+        },
+        {
+            "id": 49,
+            "polish": "nie zrozumieć",
+            "english": "sorry, I didn't catch that"
+        },
+        {
+            "id": 50,
+            "polish": "powiem to inaczej",
+            "english": "let me put it in another way"
+        },
+        {
+            "id": 51,
+            "polish": "zakaz",
+            "english": "ban/prohibition"
+        },
+        {
+            "id": 52,
+            "polish": "umowa",
+            "english": "contract"
+        },
+        {
+            "id": 53,
+            "polish": "stawka",
+            "english": "salary"
+        },
+        {
+            "id": 54,
+            "polish": "niegrzeczne",
+            "english": "rude"
+        },
+        {
+            "id": 55,
+            "polish": "zarabiać",
+            "english": "earn"
+        },
+        {
+            "id": 56,
+            "polish": "dziedziczyć",
+            "english": "inherit"
+        },
+        {
+            "id": 57,
+            "polish": "pożyczać komuś",
+            "english": "lend"
+        },
+        {
+            "id": 58,
+            "polish": "pożyczać od kogoś",
+            "english": "borrow"
+        },
+        {
+            "id": 59,
+            "polish": "wydawać",
+            "english": "spend"
+        },
+        {
+            "id": 60,
+            "polish": "kupować",
+            "english": "buy"
+        },
+        {
+            "id": 61,
+            "polish": "sprzedawać",
+            "english": "sell"
+        },
+        {
+            "id": 62,
+            "polish": "oszczędzać",
+            "english": "save"
+        },
+        {
+            "id": 63,
+            "polish": "niewystarczająco dobry",
+            "english": "not good enough"
+        },
+        {
+            "id": 64,
+            "polish": "pole",
+            "english": "field"
+        },
+        {
+            "id": 65,
+            "polish": "nie ja",
+            "english": "not me"
+        },
+        {
+            "id": 66,
+            "polish": "nie pamiętam takiej sytuacji",
+            "english": "I don't remember situation like this"
+        },
+        {
+            "id": 67,
+            "polish": "mój własny",
+            "english": "my own"
+        },
+        {
+            "id": 68,
+            "polish": "powinienem",
+            "english": "I should"
+        },
+        {
+            "id": 69,
+            "polish": "lubić",
+            "english": "enjoy"
+        },
+        {
+            "id": 70,
+            "polish": "nie lubić",
+            "english": "dislike"
+        },
+        {
+            "id": 71,
+            "polish": "kogo lubisz?",
+            "english": "who do you like?"
+        },
+        {
+            "id": 72,
+            "polish": "kto lubi ciebie?",
+            "english": "who likes you?"
+        },
+        {
+            "id": 73,
+            "polish": "dawać wskazówkę/radę",
+            "english": "give instraction"
+        },
+        {
+            "id": 74,
+            "polish": "informować",
+            "english": "instruct"
+        },
+        {
+            "id": 75,
+            "polish": "podróżnicy",
+            "english": "travelers"
+        },
+        {
+            "id": 76,
+            "polish": "na zdrowie(po kichnięciu)",
+            "english": "bless you"
+        },
+        {
+            "id": 77,
+            "polish": "czuć się pewny siebie",
+            "english": "feel confident"
+        },
+        {
+            "id": 78,
+            "polish": "zależy",
+            "english": "it depends"
+        },
+        {
+            "id": 79,
+            "polish": "dziedzina",
+            "english": "branch/domain/field"
+        },
+        {
+            "id": 80,
+            "polish": "prosić o zrobienie czegoś",
+            "english": "ask to do something"
+        },
+        {
+            "id": 81,
+            "polish": "włączony",
+            "english": "turned on"
+        },
+        {
+            "id": 82,
+            "polish": "aktualizacja",
+            "english": "update"
+        },
+        {
+            "id": 83,
+            "polish": "żonglować",
+            "english": "juggle"
+        },
+        {
+            "id": 84,
+            "polish": "kiedy już skończysz to wtedy...",
+            "english": "once you've done that then..."
+        },
+        {
+            "id": 85,
+            "polish": "kiedy skończysz",
+            "english": "when you've finished"
+        },
+        {
+            "id": 86,
+            "polish": "ostatnim krokiem jest",
+            "english": "the last step is"
+        },
+        {
+            "id": 87,
+            "polish": "garnek",
+            "english": "pot"
+        },
+        {
+            "id": 88,
+            "polish": "dać",
+            "english": "put"
+        },
+        {
+            "id": 89,
+            "polish": "dodać",
+            "english": "add"
+        },
+        {
+            "id": 90,
+            "polish": "smażyć",
+            "english": "fry"
+        },
+        {
+            "id": 91,
+            "polish": "mieszać",
+            "english": "mix"
+        },
+        {
+            "id": 92,
+            "polish": "aż do",
+            "english": "until"
+        },
+        {
+            "id": 93,
+            "polish": "źle zrozumieć",
+            "english": "misunderstood"
+        },
+        {
+            "id": 94,
+            "polish": "uniknąć",
+            "english": "avoid"
+        },
+        {
+            "id": 95,
+            "polish": "jeszcze raz",
+            "english": "one more time"
+        },
+        {
+            "id": 96,
+            "polish": "do wszystkich zainteresowanych",
+            "english": "to whom it may concern"
+        },
+        {
+            "id": 97,
+            "polish": "z poważaniem",
+            "english": "sincerely"
+        },
+        {
+            "id": 98,
+            "polish": "co robisz?",
+            "english": "what do you do?"
+        },
+        {
+            "id": 99,
+            "polish": "dużo",
+            "english": "a lof of"
+        },
+        {
+            "id": 100,
+            "polish": "przemyślenia",
+            "english": "thoughts"
+        },
+        {
+            "id": 101,
+            "polish": "usatysfakcjonowany",
+            "english": "satisfied"
+        },
+        {
+            "id": 102,
+            "polish": "sfrustrowany",
+            "english": "frustrated"
+        },
+        {
+            "id": 103,
+            "polish": "słuchać",
+            "english": "hear"
+        },
+        {
+            "id": 104,
+            "polish": "widzieć coś z czyjejś perspektwy",
+            "english": "see something from someone else's perspective"
+        },
+        {
+            "id": 105,
+            "polish": "powodować",
+            "english": "cause"
+        },
+        {
+            "id": 106,
+            "polish": "zakłopotany",
+            "english": "embarrassed"
+        },
+        {
+            "id": 107,
+            "polish": "zirytowany",
+            "english": "annoyed"
+        },
+        {
+            "id": 108,
+            "polish": "kolejność",
+            "english": "order"
+        },
+        {
+            "id": 109,
+            "polish": "oddzwaniać",
+            "english": "return to call"
+        },
+        {
+            "id": 110,
+            "polish": "nad",
+            "english": "above"
+        },
+        {
+            "id": 111,
+            "polish": "bocian",
+            "english": "stork"
+        },
+        {
+            "id": 112,
+            "polish": "ciasno/obcisły",
+            "english": "thigt"
+        },
+        {
+            "id": 113,
+            "polish": "opóźnienie",
+            "english": "delay"
+        },
+        {
+            "id": 114,
+            "polish": "poważnie",
+            "english": "serious"
+        },
+        {
+            "id": 115,
+            "polish": "paznokcie",
+            "english": "nails"
+        },
+        {
+            "id": 116,
+            "polish": "gryźć",
+            "english": "bite"
+        },
+        {
+            "id": 117,
+            "polish": "dobrze płatna",
+            "english": "well paid"
+        },
+        {
+            "id": 118,
+            "polish": "reżyser",
+            "english": "director"
+        },
+        {
+            "id": 119,
+            "polish": "występować",
+            "english": "perform"
+        },
+        {
+            "id": 120,
+            "polish": "chciałbym być",
+            "english": "I would love to be"
+        },
+        {
+            "id": 121,
+            "polish": "towarzysko",
+            "english": "socialising(soszjalajzing)"
+        },
+        {
+            "id": 122,
+            "polish": "kręcone",
+            "english": "curly(kerly)"
+        },
+        {
+            "id": 123,
+            "polish": "proste",
+            "english": "straight(strej)"
+        },
+        {
+            "id": 124,
+            "polish": "falowane",
+            "english": "wavy(łejwi)"
+        },
+        {
+            "id": 125,
+            "polish": "łysy",
+            "english": "bald(bold)"
+        },
+        {
+            "id": 126,
+            "polish": "wysoki",
+            "english": "tall"
+        },
+        {
+            "id": 127,
+            "polish": "garnitur",
+            "english": "suit"
+        },
+        {
+            "id": 128,
+            "polish": "krawat",
+            "english": "tie(taj)"
+        },
+        {
+            "id": 129,
+            "polish": "niezawodny/wiarygodny",
+            "english": "reliable(relajbo)"
+        },
+        {
+            "id": 130,
+            "polish": "zorganizowany",
+            "english": "organised"
+        },
+        {
+            "id": 131,
+            "polish": "poezja",
+            "english": "poetry"
+        },
+        {
+            "id": 132,
+            "polish": "rzadko",
+            "english": "rarely/saldom(relli)"
+        },
+        {
+            "id": 133,
+            "polish": "jezioro łabędzie",
+            "english": "swan lake"
+        },
+        {
+            "id": 134,
+            "polish": "harmonogram",
+            "english": "schedule"
+        },
+        {
+            "id": 135,
+            "polish": "rozkład",
+            "english": "timetable"
+        },
+        {
+            "id": 136,
+            "polish": "postanowienie/plan/układ/rozmieszczenie",
+            "english": "arrangement(erendzment)"
+        },
+        {
+            "id": 137,
+            "polish": "śpieszyć się",
+            "english": "hurry"
+        },
+        {
+            "id": 138,
+            "polish": "różnorodny",
+            "english": "diverse"
+        },
+        {
+            "id": 139,
+            "polish": "cytat",
+            "english": "quotes(kłots)"
+        },
+        {
+            "id": 140,
+            "polish": "dokładniej/głębiej/dalej",
+            "english": "further(furder)"
+        },
+        {
+            "id": 141,
+            "polish": "pracować nad",
+            "english": "work on"
+        },
+        {
+            "id": 142,
+            "polish": "członkowie",
+            "english": "members"
+        },
+        {
+            "id": 143,
+            "polish": "na zewnątrz",
+            "english": "outdoors"
+        },
+        {
+            "id": 144,
+            "polish": "pogawędka",
+            "english": "small talk"
+        },
+        {
+            "id": 145,
+            "polish": "przechwalać się o",
+            "english": "brag about"
+        },
+        {
+            "id": 146,
+            "polish": "kobiety",
+            "english": "women(łimen)"
+        },
+        {
+            "id": 147,
+            "polish": "samotny",
+            "english": "lonely"
+        },
+        {
+            "id": 148,
+            "polish": "zadowolony/zawartość",
+            "english": "content"
+        },
+        {
+            "id": 149,
+            "polish": "im wcześniej...tym lepiej",
+            "english": "the sooner you...the better"
+        },
+        {
+            "id": 150,
+            "polish": "...jest warte spróbowania",
+            "english": "...is worth a try"
+        },
+        {
+            "id": 151,
+            "polish": "może zadziałać",
+            "english": "might work"
+        },
+        {
+            "id": 152,
+            "polish": "lepiej żebyś...",
+            "english": "you'd better..."
+        },
+        {
+            "id": 153,
+            "polish": "czy powinnienem?",
+            "english": "Shall I?(szell aj)"
+        },
+        {
+            "id": 154,
+            "polish": "czy chciałbyś?",
+            "english": "Would you like?"
+        },
+        {
+            "id": 155,
+            "polish": "co powiesz na...?",
+            "english": "How about...?"
+        },
+        {
+            "id": 156,
+            "polish": "operacja plastyczna",
+            "english": "plastic surgery(plastik surdzery)"
+        },
+        {
+            "id": 157,
+            "polish": "byłoby miło z twojej strony",
+            "english": "that would be very kind of you"
+        },
+        {
+            "id": 158,
+            "polish": "miło z twojej strony",
+            "english": "that is very kind of you"
+        },
+        {
+            "id": 159,
+            "polish": "jeżeli nie masz nic przeciwko",
+            "english": "if you wouldn't mind"
+        },
+        {
+            "id": 160,
+            "polish": "byłoby świetnie",
+            "english": "that would be great"
+        },
+        {
+            "id": 161,
+            "polish": "niedoceniać",
+            "english": "underestimate(anderastemi)"
+        },
+        {
+            "id": 162,
+            "polish": "traktować",
+            "english": "treat(trit)"
+        },
+        {
+            "id": 163,
+            "polish": "zabijać",
+            "english": "kill"
+        },
+        {
+            "id": 164,
+            "polish": "wtedy",
+            "english": "then"
+        },
+        {
+            "id": 165,
+            "polish": "rodzić",
+            "english": "give birth"
+        },
+        {
+            "id": 166,
+            "polish": "kosiarka",
+            "english": "loan mover"
+        },
+        {
+            "id": 167,
+            "polish": "rządzić/reguła",
+            "english": "rule"
+        },
+        {
+            "id": 168,
+            "polish": "strata czasu",
+            "english": "waste of time"
+        },
+        {
+            "id": 169,
+            "polish": "kwadrans",
+            "english": "quarter(kłoter)"
+        },
+        {
+            "id": 170,
+            "polish": "w pół do",
+            "english": "half past"
+        },
+        {
+            "id": 171,
+            "polish": "w pół do 3",
+            "english": "half past two"
+        },
+        {
+            "id": 172,
+            "polish": "na nogach",
+            "english": "on foot"
+        },
+        {
+            "id": 173,
+            "polish": "najmniej",
+            "english": "least(list)"
+        },
+        {
+            "id": 174,
+            "polish": "dostawać się",
+            "english": "get to"
+        },
+        {
+            "id": 175,
+            "polish": "ćwiczyć",
+            "english": "exercise"
+        },
+        {
+            "id": 176,
+            "polish": "ćwiczyć",
+            "english": "doing workout"
+        },
+        {
+            "id": 177,
+            "polish": "drapacze chmur",
+            "english": "skyscrapers(skaj skrejpers)"
+        },
+        {
+            "id": 178,
+            "polish": "metro",
+            "english": "metro/subway/underground"
+        },
+        {
+            "id": 179,
+            "polish": "diabelski młyn",
+            "english": "ferris wheel"
+        },
+        {
+            "id": 180,
+            "polish": "lodówka",
+            "english": "fridge(fridz)"
+        },
+        {
+            "id": 181,
+            "polish": "skończyć",
+            "english": "run out"
+        },
+        {
+            "id": 182,
+            "polish": "autobus lotniskowy",
+            "english": "shuttle(szatel)"
+        },
+        {
+            "id": 183,
+            "polish": "przesiadka",
+            "english": "transfer"
+        },
+        {
+            "id": 184,
+            "polish": "pierwsza pomoc",
+            "english": "first aid"
+        },
+        {
+            "id": 185,
+            "polish": "apteczka",
+            "english": "first aid kit"
+        },
+        {
+            "id": 186,
+            "polish": "loża",
+            "english": "longue(long)"
+        },
+        {
+            "id": 187,
+            "polish": "dworzec kolejowy",
+            "english": "railway station"
+        },
+        {
+            "id": 188,
+            "polish": "kawiarnia",
+            "english": "cafe"
+        },
+        {
+            "id": 189,
+            "polish": "odprawa celna",
+            "english": "customs"
+        },
+        {
+            "id": 190,
+            "polish": "aż do",
+            "english": "till"
+        },
+        {
+            "id": 191,
+            "polish": "sztucce",
+            "english": "cutlery(katlery)"
+        },
+        {
+            "id": 192,
+            "polish": "reszta",
+            "english": "change"
+        },
+        {
+            "id": 193,
+            "polish": "jeść w środku",
+            "english": "eat in"
+        },
+        {
+            "id": 194,
+            "polish": "na wynos",
+            "english": "take away"
+        },
+        {
+            "id": 195,
+            "polish": "chciałbym to",
+            "english": "I will have this"
+        },
+        {
+            "id": 196,
+            "polish": "chciałbym zupe",
+            "english": "I would like soup"
+        },
+        {
+            "id": 197,
+            "polish": "czy mogę dostać rachunek?",
+            "english": "Can I have a bill?"
+        },
+        {
+            "id": 198,
+            "polish": "odloty",
+            "english": "departures"
+        },
+        {
+            "id": 199,
+            "polish": "przyloty",
+            "english": "arrivals(erajwals)"
+        },
+        {
+            "id": 200,
+            "polish": "sprzedaż detaliczna",
+            "english": "retail(riteil)"
+        },
+        {
+            "id": 201,
+            "polish": "wózek sklepowy",
+            "english": "trolley"
+        },
+        {
+            "id": 202,
+            "polish": "wygodny",
+            "english": "convenient(konwinient)"
+        },
+        {
+            "id": 203,
+            "polish": "pozostawać w kontakcie",
+            "english": "stay in touch with someone/keep in touch"
+        },
+        {
+            "id": 204,
+            "polish": "ustawiać powiadomienia",
+            "english": "set reminders(set remajders)"
+        },
+        {
+            "id": 205,
+            "polish": "wiarygodny/rzetelny",
+            "english": "reliable(relajibol)"
+        },
+        {
+            "id": 206,
+            "polish": "ograniczenia",
+            "english": "restrictions"
+        },
+        {
+            "id": 207,
+            "polish": "nalać",
+            "english": "pour(pur)"
+        },
+        {
+            "id": 208,
+            "polish": "nie ma zupełnie problemu",
+            "english": "no problem at all"
+        },
+        {
+            "id": 209,
+            "polish": "zobaczę co da się zrobić",
+            "english": "I'll see what I can do"
+        },
+        {
+            "id": 210,
+            "polish": "papierowa robota",
+            "english": "paperwork"
+        },
+        {
+            "id": 211,
+            "polish": "plany/ustalenia",
+            "english": "arrangements(erendzments)"
+        },
+        {
+            "id": 212,
+            "polish": "osiągnięcia",
+            "english": "achievements(ecziwments)"
+        },
+        {
+            "id": 213,
+            "polish": "rozmowa o pracę",
+            "english": "job interview"
+        },
+        {
+            "id": 214,
+            "polish": "wiarygodny",
+            "english": "reliable(ralajbol)"
+        },
+        {
+            "id": 215,
+            "polish": "odddany",
+            "english": "committed"
+        },
+        {
+            "id": 216,
+            "polish": "poprzednia",
+            "english": "previous"
+        },
+        {
+            "id": 217,
+            "polish": "masz w tym rację",
+            "english": "you have a point there"
+        },
+        {
+            "id": 218,
+            "polish": "nie mogłem się bardziej zgodzić",
+            "english": "I couldn't agree more"
+        },
+        {
+            "id": 219,
+            "polish": "obawiam się, że muszę się nie zgodzić",
+            "english": "I'm afraid I disagree"
+        },
+        {
+            "id": 220,
+            "polish": "nie zawsze tak jest",
+            "english": "that's not always the case"
+        },
+        {
+            "id": 221,
+            "polish": "nie do końca",
+            "english": "not necessarily"
+        },
+        {
+            "id": 222,
+            "polish": "zły",
+            "english": "angry/mad"
+        },
+        {
+            "id": 223,
+            "polish": "wychodzić",
+            "english": "go out"
+        },
+        {
+            "id": 224,
+            "polish": "ja płacę za tą kolejkę",
+            "english": "I will get this round"
+        },
+        {
+            "id": 225,
+            "polish": "ja za to płace",
+            "english": "It's on me"
+        },
+        {
+            "id": 226,
+            "polish": "ja stawiam",
+            "english": "It's my shout"
+        },
+        {
+            "id": 227,
+            "polish": "odejść",
+            "english": "quit(kłit)"
+        },
+        {
+            "id": 228,
+            "polish": "zastanawiałem się",
+            "english": "I was wondering"
+        },
+        {
+            "id": 229,
+            "polish": "wypowiadać się",
+            "english": "talk up"
+        },
+        {
+            "id": 230,
+            "polish": "cytaty",
+            "english": "quotes"
+        },
+        {
+            "id": 231,
+            "polish": "powiedziałbym że",
+            "english": "I would say that"
+        },
+        {
+            "id": 232,
+            "polish": "poznać(coś)/dowiedzieć się",
+            "english": "get to know"
+        },
+        {
+            "id": 233,
+            "polish": "rzecz posiadana/własność",
+            "english": "possession"
+        },
+        {
+            "id": 234,
+            "polish": "wygodny",
+            "english": "convenient(konwinient)"
+        },
+        {
+            "id": 235,
+            "polish": "najważniejszy",
+            "english": "essential"
+        },
+        {
+            "id": 236,
+            "polish": "trwały",
+            "english": "durable"
+        },
+        {
+            "id": 237,
+            "polish": "tryb samolotowy",
+            "english": "flight mode"
+        },
+        {
+            "id": 238,
+            "polish": "ekran startowy",
+            "english": "homescreen"
+        },
+        {
+            "id": 239,
+            "polish": "najnowsza",
+            "english": "newest"
+        },
+        {
+            "id": 240,
+            "polish": "najnowszy",
+            "english": "latest"
+        },
+        {
+            "id": 241,
+            "polish": "cechy",
+            "english": "features"
+        },
+        {
+            "id": 242,
+            "polish": "przeszkadzać/przerywać",
+            "english": "interrupt"
+        },
+        {
+            "id": 243,
+            "polish": "zły",
+            "english": "angry"
+        },
+        {
+            "id": 244,
+            "polish": "zirytowany",
+            "english": "annoyed"
+        },
+        {
+            "id": 245,
+            "polish": "przepraszam, że przeszkadzam ale",
+            "english": "I'm sorry to interrupt but"
+        },
+        {
+            "id": 246,
+            "polish": "czy mogę na chwile przeszkodzić?",
+            "english": "Could I just jump in for a minute?"
+        },
+        {
+            "id": 247,
+            "polish": "bardziej się już nie mogę z tobą zgodzić",
+            "english": "I couldn't agree more"
+        },
+        {
+            "id": 248,
+            "polish": "to jest taka prawda",
+            "english": "that's so true"
+        },
+        {
+            "id": 249,
+            "polish": "masz słuszność",
+            "english": "you have a point there"
+        },
+        {
+            "id": 250,
+            "polish": "obawiam się, że muszę się nie zgodzić",
+            "english": "I'm afraid I disagree"
+        },
+        {
+            "id": 251,
+            "polish": "niekoniecznie",
+            "english": "not necessarily"
+        },
+        {
+            "id": 252,
+            "polish": "nie zdążyć na pociąg",
+            "english": "miss the train"
+        },
+        {
+            "id": 253,
+            "polish": "ile zajmuje podróż?",
+            "english": "How long does it take?"
+        },
+        {
+            "id": 254,
+            "polish": "z którego peronu odjeżdza?",
+            "english": "What platform does it leave from?"
+        },
+        {
+            "id": 255,
+            "polish": "zalety",
+            "english": "pros"
+        },
+        {
+            "id": 256,
+            "polish": "wady",
+            "english": "cons"
+        },
+        {
+            "id": 256,
+            "polish": "wady",
+            "english": "cons"
+        },
+        {
+            "id": 257,
+            "polish": "wartości",
+            "english": "values"
+        },
+        {
+            "id": 258,
+            "polish": "stowarzyszenie",
+            "english": "association(asołszyjejszyn)"
+        },
+        {
+            "id": 259,
+            "polish": "luksus",
+            "english": "luxury(lukżery)"
+        },
+        {
+            "id": 260,
+            "polish": "etyczny",
+            "english": "ethical(efekol)"
+        },
+        {
+            "id": 261,
+            "polish": "tożsamość",
+            "english": "identity(ajdeniti)"
+        },
+        {
+            "id": 262,
+            "polish": "skupić się",
+            "english": "focus"
+        },
+        {
+            "id": 263,
+            "polish": "publiczność",
+            "english": "audience(ałdiens)"
+        },
+        {
+            "id": 264,
+            "polish": "konsekwentny",
+            "english": "consistent"
+        },
+        {
+            "id": 265,
+            "polish": "zrobić pracę/zadanie",
+            "english": "get work done"
+        },
+        {
+            "id": 266,
+            "polish": "brać wolne od pracy",
+            "english": "take time off work"
+        },
+        {
+            "id": 267,
+            "polish": "pracować nad czymś",
+            "english": "work on something"
+        },
+        {
+            "id": 268,
+            "polish": "krzesło",
+            "english": "chair(czer)"
+        },
+        {
+            "id": 269,
+            "polish": "coraz więcej",
+            "english": "more and more"
+        },
+        {
+            "id": 270,
+            "polish": "coraz mniej",
+            "english": "less and less"
+        },
+        {
+            "id": 271,
+            "polish": "luźny",
+            "english": "loose(luz)"
+        },
+        {
+            "id": 272,
+            "polish": "wyglądać",
+            "english": "look like"
+        },
+        {
+            "id": 273,
+            "polish": "kiedyś się robiło ale już nie",
+            "english": "used to do"
+        },
+        {
+            "id": 274,
+            "polish": "uczyć się od podstaw",
+            "english": "learn the ropes"
+        },
+        {
+            "id": 275,
+            "polish": "zgadzać się",
+            "english": "see eye to eye with someone"
+        },
+        {
+            "id": 276,
+            "polish": "nie zmieniać zdania",
+            "english": "stand your ground"
+        },
+        {
+            "id": 277,
+            "polish": "zrobić coś niezgodne z ludźmi",
+            "english": "rock the boat"
+        },
+        {
+            "id": 278,
+            "polish": "lina",
+            "english": "rope"
+        },
+        {
+            "id": 279,
+            "polish": "założyciel",
+            "english": "founder"
+        },
+        {
+            "id": 280,
+            "polish": "cechy",
+            "english": "qualities"
+        },
+        {
+            "id": 281,
+            "polish": "oddany",
+            "english": "committed"
+        },
+        {
+            "id": 282,
+            "polish": "uporządkowany",
+            "english": "well-structured(łell strakczer)"
+        },
+        {
+            "id": 283,
+            "polish": "fundusze/kapitał",
+            "english": "funds/capital"
+        },
+        {
+            "id": 284,
+            "polish": "spraw żeby coś było priorytetem",
+            "english": "make something priority"
+        },
+        {
+            "id": 285,
+            "polish": "podążać/realizować",
+            "english": "pursue(pursu)"
+        },
+        {
+            "id": 286,
+            "polish": "mikrofalówka",
+            "english": "microwave(mikrołej)"
+        },
+        {
+            "id": 287,
+            "polish": "zlew",
+            "english": "sink"
+        },
+        {
+            "id": 288,
+            "polish": "od",
+            "english": "from"
+        },
+        {
+            "id": 289,
+            "polish": "przepraszać",
+            "english": "apologise"
+        },
+        {
+            "id": 290,
+            "polish": "zawstydzony",
+            "english": "embarrassed(emberest)"
+        },
+        {
+            "id": 291,
+            "polish": "zawstydzony",
+            "english": "ashamed(eszejmd)"
+        },
+        {
+            "id": 292,
+            "polish": "rozczarowany",
+            "english": "disappointed"
+        },
+        {
+            "id": 293,
+            "polish": "rozczarowywać",
+            "english": "disappoint"
+        },
+        {
+            "id": 294,
+            "polish": "przyznać się do błędu",
+            "english": "that you were wrong"
+        },
+        {
+            "id": 295,
+            "polish": "wymówka",
+            "english": "excuse(eksius)"
+        },
+        {
+            "id": 296,
+            "polish": "skarga",
+            "english": "complaint"
+        },
+        {
+            "id": 297,
+            "polish": "dostawa",
+            "english": "delivery"
+        },
+        {
+            "id": 298,
+            "polish": "spóźniona",
+            "english": "late"
+        },
+        {
+            "id": 299,
+            "polish": "reedycja/ponowne wydanie",
+            "english": "reissue(reszju)"
+        },
+        {
+            "id": 300,
+            "polish": "faktura",
+            "english": "invoice"
+        },
+        {
+            "id": 301,
+            "polish": "paragon",
+            "english": "receipt(risipt)"
+        },
+        {
+            "id": 302,
+            "polish": "recepta",
+            "english": "prescription(preskripszyn)"
+        },
+        {
+            "id": 303,
+            "polish": "zostawić",
+            "english": "leave(liw)"
+        },
+        {
+            "id": 304,
+            "polish": "opinia",
+            "english": "review"
+        },
+        {
+            "id": 305,
+            "polish": "przemysł",
+            "english": "industry"
+        },
+        {
+            "id": 306,
+            "polish": "turystyka",
+            "english": "tourism"
+        },
+        {
+            "id": 307,
+            "polish": "gościnność/gastronomia",
+            "english": "hospitality"
+        },
+        {
+            "id": 308,
+            "polish": "wytwarzać",
+            "english": "manufacture"
+        },
+        {
+            "id": 309,
+            "polish": "zapewniać",
+            "english": "privide(prowajd)"
+        },
+        {
+            "id": 310,
+            "polish": "udziały",
+            "english": "stocks(staks)"
+        },
+        {
+            "id": 311,
+            "polish": "na giełdzie",
+            "english": "on stock"
+        },
+        {
+            "id": 312,
+            "polish": "towary",
+            "english": "goods"
+        },
+        {
+            "id": 313,
+            "polish": "własność",
+            "english": "property"
+        },
+        {
+            "id": 314,
+            "polish": "woźny/dozorca",
+            "english": "janitor(dzeliwer)"
+        },
+        {
+            "id": 315,
+            "polish": "dyrektor generalny",
+            "english": "CEO(Chief Executive Officer)"
+        },
+        {
+            "id": 316,
+            "polish": "dyrektor finansowy",
+            "english": "CFO(Chief Financial Officer)"
+        },
+        {
+            "id": 317,
+            "polish": "kierownictwo średniego szczebla",
+            "english": "middle management"
+        },
+        {
+            "id": 318,
+            "polish": "radzić sobie z",
+            "english": "deal with"
+        },
+        {
+            "id": 319,
+            "polish": "przewidywalne",
+            "english": "predictable"
+        },
+        {
+            "id": 320,
+            "polish": "skanować",
+            "english": "make a scan"
+        },
+        {
+            "id": 321,
+            "polish": "drukarka",
+            "english": "printer"
+        },
+        {
+            "id": 322,
+            "polish": "zaczynam dzień od",
+            "english": "I start my day by"
+        },
+        {
+            "id": 323,
+            "polish": "kłamstwo/kłamać",
+            "english": "lie/to lie(laj)"
+        },
+        {
+            "id": 324,
+            "polish": "znikać",
+            "english": "disappear"
+        },
+        {
+            "id": 325,
+            "polish": "zapłacić podwyżkę",
+            "english": "pay a rise(pej a rajs)"
+        },
+        {
+            "id": 326,
+            "polish": "wyjaśnienie",
+            "english": "explanation(explenejszyn)"
+        },
+        {
+            "id": 327,
+            "polish": "wyrazić opinie",
+            "english": "give opinion"
+        },
+        {
+            "id": 328,
+            "polish": "wolne",
+            "english": "time off"
+        },
+        {
+            "id": 329,
+            "polish": "dać wyjaśnienie",
+            "english": "give an explanation"
+        },
+        {
+            "id": 330,
+            "polish": "przebaczenie",
+            "english": "forgiveness"
+        },
+        {
+            "id": 331,
+            "polish": "zgoda",
+            "english": "permission"
+        },
+        {
+            "id": 332,
+            "polish": "wykresy",
+            "english": "graphs"
+        },
+        {
+            "id": 333,
+            "polish": "zero 0 w numerach telefonu",
+            "english": "0 -> oł"
+        },
+        {
+            "id": 334,
+            "polish": "nr tel czyta się pojedyńczo",
+            "english": "514043122-five,one,four"
+        },
+        {
+            "id": 335,
+            "polish": "dwie cyfry te same koło się w nr tel 552...",
+            "english": "double five, two"
+        },
+        {
+            "id": 336,
+            "polish": "3 i 1/4",
+            "english": "three and a quarter"
+        },
+        {
+            "id": 337,
+            "polish": "1/4",
+            "english": "quarter"
+        },
+        {
+            "id": 338,
+            "polish": "1/2",
+            "english": "half"
+        },
+        {
+            "id": 339,
+            "polish": "4 i 3/4",
+            "english": "four and three over four/three foruths"
+        },
+        {
+            "id": 340,
+            "polish": "0.5",
+            "english": "zero point five"
+        },
+        {
+            "id": 341,
+            "polish": "ponadwymiarowy bagaż",
+            "english": "oversized luggage(lagidz)"
+        },
+        {
+            "id": 342,
+            "polish": "podręczny bagaż",
+            "english": "hand baggage"
+        },
+        {
+            "id": 343,
+            "polish": "rondo",
+            "english": "roundabout"
+        },
+        {
+            "id": 344,
+            "polish": "zjazd, węzeł",
+            "english": "junction(dzankszyn)"
+        },
+        {
+            "id": 345,
+            "polish": "skrzyżowanie",
+            "english": "intersection(intersekszyn)"
+        },
+        {
+            "id": 346,
+            "polish": "na przeciwko",
+            "english": "opposite(apozyt)"
+        },
+        {
+            "id": 347,
+            "polish": "końcowy przystanek",
+            "english": "terminus"
+        },
+        {
+            "id": 348,
+            "polish": "przechodząc do",
+            "english": "moving on to"
+        },
+        {
+            "id": 349,
+            "polish": "uwagi",
+            "english": "remarks"
+        },
+        {
+            "id": 350,
+            "polish": "walizka/bagaż(UK)",
+            "english": "suitcase/luggage"
+        },
+        {
+            "id": 351,
+            "polish": "bagaż(US)",
+            "english": "baggage(bagedż)"
+        },
+        {
+            "id": 352,
+            "polish": "ubezpieczenie",
+            "english": "insurance(inszurens)"
+        },
+        {
+            "id": 353,
+            "polish": "nawa, miejsce przy korytarzu",
+            "english": "aisle(ajl)"
+        },
+        {
+            "id": 354,
+            "polish": "waga",
+            "english": "scales(skils)"
+        },
+        {
+            "id": 355,
+            "polish": "czy chciałbyś?",
+            "english": "would you like?"
+        },
+        {
+            "id": 356,
+            "polish": "niesomowite/wspaniały",
+            "english": "fabulous(fabiules)"
+        },
+        {
+            "id": 357,
+            "polish": "ekscytujące",
+            "english": "exciting"
+        },
+        {
+            "id": 358,
+            "polish": "twórcze",
+            "english": "inventive(inwiniw)"
+        },
+        {
+            "id": 359,
+            "polish": "innowacyjne",
+            "english": "innovative"
+        },
+        {
+            "id": 360,
+            "polish": "wspaniałe wiadomości",
+            "english": "fabulous news(fabiules nius)"
+        },
+        {
+            "id": 361,
+            "polish": "ekscytująca możliwość/szansa",
+            "english": "exciting prospect"
+        },
+        {
+            "id": 362,
+            "polish": "świadomy",
+            "english": "conscious(konczys)"
+        },
+        {
+            "id": 363,
+            "polish": "środowisko",
+            "english": "environment(inwajorment)"
+        },
+        {
+            "id": 364,
+            "polish": "śmieci",
+            "english": "rubbish"
+        },
+        {
+            "id": 365,
+            "polish": "kubki wielokrotnego użytku",
+            "english": "reusable cups(rijuzibu kaps)"
+        },
+        {
+            "id": 366,
+            "polish": "zachęcać",
+            "english": "encourage(inkorydż)"
+        },
+        {
+            "id": 367,
+            "polish": "kosz na śmieci",
+            "english": "bin"
+        },
+        {
+            "id": 368,
+            "polish": "pompa ciepła",
+            "english": "heat pump"
+        },
+        {
+            "id": 369,
+            "polish": "wiatrak",
+            "english": "windmill"
+        },
+        {
+            "id": 370,
+            "polish": "hulajnoga",
+            "english": "scooter"
+        },
+        {
+            "id": 371,
+            "polish": "robić zakupy",
+            "english": "do shopping"
+        },
+        {
+            "id": 372,
+            "polish": "powinien",
+            "english": "ought to(aaa to)"
+        },
+        {
+            "id": 373,
+            "polish": "zgłosić chorobowe",
+            "english": "call in sick"
+        },
+        {
+            "id": 374,
+            "polish": "dlaczego by nie?",
+            "english": "why don't we...?"
+        },
+        {
+            "id": 375,
+            "polish": "co powiesz na...?",
+            "english": "how about...(verb+ing)?"
+        },
+        {
+            "id": 376,
+            "polish": "bardziej",
+            "english": "more"
+        },
+        {
+            "id": 377,
+            "polish": "reklamować",
+            "english": "advertise(adwerstajz)"
+        },
+        {
+            "id": 378,
+            "polish": "zaangażowanie/zaręczyny",
+            "english": "engagement(ingejdzment)"
+        },
+        {
+            "id": 379,
+            "polish": "stać się popularnym/rozejść się po sieci",
+            "english": "go viral(goł wajrol)"
+        },
+        {
+            "id": 380,
+            "polish": "stan cywilny",
+            "english": "marital status(majrol status)"
+        },
+        {
+            "id": 381,
+            "polish": "zatrudnić",
+            "english": "hire(hajer)"
+        },
+        {
+            "id": 382,
+            "polish": "kobiety",
+            "english": "women(łimin)"
+        },
+        {
+            "id": 383,
+            "polish": "rozumiem",
+            "english": "I see"
+        },
+        {
+            "id": 384,
+            "polish": "jak interesująco",
+            "english": "how interesting"
+        },
+        {
+            "id": 385,
+            "polish": "za co to było",
+            "english": "what was that for"
+        },
+        {
+            "id": 386,
+            "polish": "no way",
+            "english": "niemożliwe"
+        },
+        {
+            "id": 387,
+            "polish": "zwolniony",
+            "english": "fired(fajred)"
+        },
+        {
+            "id": 388,
+            "polish": "awans",
+            "english": "promotion"
+        },
+        {
+            "id": 389,
+            "polish": "robić komuś przysługę",
+            "english": "do someone a favar(fejwor)"
+        },
+        {
+            "id": 390,
+            "polish": "robić coś jak najlepiej",
+            "english": "do your best"
+        },
+        {
+            "id": 391,
+            "polish": "robić przeszukanie",
+            "english": "do research"
+        },
+        {
+            "id": 392,
+            "polish": "czy rozważyłbyś?",
+            "english": "Would you consider?"
+        },
+        {
+            "id": 393,
+            "polish": "czy udało nam się znaleźć wspólny język?",
+            "english": "Maybe we could find a middle ground?"
+        },
+        {
+            "id": 394,
+            "polish": "co byłoby rozsądnym rozwiązaniem?",
+            "english": "What would be a reasonable arrangement?(risenebol erendzment)"
+        },
+        {
+            "id": 395,
+            "polish": "byłbym wstanie do/byłbym skłonny do",
+            "english": "I would be willing(łilling) to"
+        },
+        {
+            "id": 396,
+            "polish": "aktualna",
+            "english": "current"
+        },
+        {
+            "id": 397,
+            "polish": "podawać",
+            "english": "pass"
+        },
+        {
+            "id": 398,
+            "polish": "gospodarz",
+            "english": "host"
+        },
+        {
+            "id": 399,
+            "polish": "złapać cię",
+            "english": "catch you"
+        },
+        {
+            "id": 400,
+            "polish": "zgłaszać chorobowe",
+            "english": "call in sick"
+        },
+        {
+            "id": 401,
+            "polish": "przeziębienie",
+            "english": "have a cold"
+        },
+        {
+            "id": 402,
+            "polish": "grypa",
+            "english": "have the flu"
+        },
+        {
+            "id": 403,
+            "polish": "opiekować się",
+            "english": "look after"
+        },
+        {
+            "id": 404,
+            "polish": "rozłożyło mnie coś",
+            "english": "I've come down with something"
+        },
+        {
+            "id": 405,
+            "polish": "nie jest w stanie dzisiaj przyjść",
+            "english": "I won't be able to come in today"
+        },
+        {
+            "id": 406,
+            "polish": "problem/niedogodności",
+            "english": "inconvenience(inkonwiniens)"
+        },
+        {
+            "id": 407,
+            "polish": "ubiór",
+            "english": "clothing(klofing)"
+        },
+        {
+            "id": 408,
+            "polish": "krawat",
+            "english": "tie(taj)"
+        },
+        {
+            "id": 409,
+            "polish": "polityka nadgodzin",
+            "english": "overtime policy"
+        },
+        {
+            "id": 410,
+            "polish": "nieobecność",
+            "english": "absence(absens)"
+        },
+        {
+            "id": 411,
+            "polish": "poufne",
+            "english": "confidentiality(konfidentiality)"
+        },
+        {
+            "id": 412,
+            "polish": "galeria handlowa",
+            "english": "shopping centre/department store"
+        },
+        {
+            "id": 413,
+            "polish": "bałagan",
+            "english": "messy(messi)"
+        },
+        {
+            "id": 414,
+            "polish": "czysty",
+            "english": "tidy(tajdi)"
+        },
+        {
+            "id": 415,
+            "polish": "dostawa",
+            "english": "shipment(szipment)"
+        },
+        {
+            "id": 416,
+            "polish": "magazyn",
+            "english": "storeroom"
+        },
+        {
+            "id": 417,
+            "polish": "mnóstwo",
+            "english": "loads(lołds)"
+        },
+        {
+            "id": 418,
+            "polish": "magazyn",
+            "english": "warehouse(łerhałs)"
+        },
+        {
+            "id": 419,
+            "polish": "schowek",
+            "english": "storage"
+        },
+        {
+            "id": 420,
+            "polish": "za dużo",
+            "english": "too much/many+rzeczownik"
+        },
+        {
+            "id": 421,
+            "polish": "wystarczająco",
+            "english": "enough+rzeczownik"
+        },
+        {
+            "id": 422,
+            "polish": "mnóstwo",
+            "english": "plenty of(pleni of)"
+        },
+        {
+            "id": 423,
+            "polish": "mnóstwo",
+            "english": "loads of(luds of)"
+        },
+        {
+            "id": 424,
+            "polish": "daleko",
+            "english": "far"
+        },
+        {
+            "id": 424,
+            "polish": "doceniam",
+            "english": "appreciate(apriszjet)"
+        },
+        {
+            "id": 425,
+            "polish": "doceniam to",
+            "english": "I appreciate that"
+        },
+        {
+            "id": 426,
+            "polish": "natychmiast",
+            "english": "immediately(amidietli)"
+        },
+        {
+            "id": 427,
+            "polish": "zaangażować kogoś",
+            "english": "keep someone engaged(ingejdz)"
+        },
+        {
+            "id": 428,
+            "polish": "terminowy/punktualny",
+            "english": "timely(tajmli)"
+        },
+        {
+            "id": 429,
+            "polish": "spieszyć się",
+            "english": "rush"
+        },
+        {
+            "id": 430,
+            "polish": "przyśpieszony",
+            "english": "rushed"
+        },
+        {
+            "id": 431,
+            "polish": "przemyśleć coś",
+            "english": "think something through(fro)"
+        },
+        {
+            "id": 432,
+            "polish": "polecić",
+            "english": "recommend"
+        },
+        {
+            "id": 433,
+            "polish": "zawód",
+            "english": "proffesion"
+        },
+        {
+            "id": 434,
+            "polish": "grzeczny",
+            "english": "polite"
+        },
+        {
+            "id": 435,
+            "polish": "pozwól mi zerknąć",
+            "english": "let me look into that for you"
+        },
+        {
+            "id": 436,
+            "polish": "dziękuje za zwrócenie na to uwagi",
+            "english": "thanks for bringing this to our attention"
+        },
+        {
+            "id": 437,
+            "polish": "mimika twarzy",
+            "english": "facial(fejszol) expressions"
+        },
+        {
+            "id": 438,
+            "polish": "rozłączyć się",
+            "english": "hang up"
+        },
+        {
+            "id": 439,
+            "polish": "zgłaszać",
+            "english": "apply"
+        },
+        {
+            "id": 440,
+            "polish": "dobrze się komunikować",
+            "english": "communicate well"
+        },
+        {
+            "id": 441,
+            "polish": "specjalizować się w",
+            "english": "excel at"
+        },
+        {
+            "id": 442,
+            "polish": "zadowolony",
+            "english": "satisfied(satesfajd)"
+        },
+        {
+            "id": 443,
+            "polish": "rosnąć",
+            "english": "rise"
+        },
+        {
+            "id": 444,
+            "polish": "ostry",
+            "english": "sharp"
+        },
+        {
+            "id": 445,
+            "polish": "mały wzrost",
+            "english": "small increase"
+        },
+        {
+            "id": 446,
+            "polish": "spadek stopniowy",
+            "english": "fell gradually(fell graduolli)"
+        },
+        {
+            "id": 447,
+            "polish": "aż do",
+            "english": "up until"
+        },
+        {
+            "id": 448,
+            "polish": "zwrócić uwagę",
+            "english": "I'd like to draw your attention to"
+        },
+        {
+            "id": 449,
+            "polish": "żeby zauważyć",
+            "english": "to note"
+        },
+        {
+            "id": 450,
+            "polish": "ogólnie",
+            "english": "overall"
+        },
+        {
+            "id": 451,
+            "polish": "opuszczać na dobrych warunkach",
+            "english": "leaving on good terms"
+        },
+        {
+            "id": 452,
+            "polish": "wyniki/osiągi/występ",
+            "english": "performance"
+        },
+        {
+            "id": 453,
+            "polish": "pragnienie",
+            "english": "desire"
+        },
+        {
+            "id": 454,
+            "polish": "wyrażać",
+            "english": "express"
+        },
+        {
+            "id": 455,
+            "polish": "zamierzać",
+            "english": "inted(intyd)"
+        },
+        {
+            "id": 456,
+            "polish": "przejść na emeryture",
+            "english": "retire(retajer)"
+        },
+        {
+            "id": 457,
+            "polish": "emerytura",
+            "english": "retirement(retajrment)"
+        },
+        {
+            "id": 458,
+            "polish": "to samo",
+            "english": "the same"
+        },
+        {
+            "id": 459,
+            "polish": "wytrzymały",
+            "english": "sustainable(sustenejbol)"
+        },
+        {
+            "id": 460,
+            "polish": "dzieło sztuki",
+            "english": "state-of-the-art"
+        },
+        {
+            "id": 461,
+            "polish": "jedyny w swoim rodzaju",
+            "english": "one-of-a-kind"
+        },
+        {
+            "id": 462,
+            "polish": "odrzucić",
+            "english": "to turn something down"
+        },
+        {
+            "id": 463,
+            "polish": "popęd/namawiać/zachęcać/impuls",
+            "english": "urge(urdż)"
+        },
+        {
+            "id": 464,
+            "polish": "przedstawić",
+            "english": "introduce"
+        },
+        {
+            "id": 465,
+            "polish": "okazja/możliwość",
+            "english": "opportunity(oportuniti)"
+        },
+        {
+            "id": 466,
+            "polish": "satysfakcjonujące",
+            "english": "rewarding(rełording)"
+        },
+        {
+            "id": 467,
+            "polish": "nagroda",
+            "english": "reward(rełord)"
+        },
+        {
+            "id": 468,
+            "polish": "warte zachodu/wartościowe",
+            "english": "worthwhile(łorfłajl)"
+        },
+        {
+            "id": 469,
+            "polish": "wymagające",
+            "english": "demanding"
+        },
+        {
+            "id": 470,
+            "polish": "stresujące",
+            "english": "stressful"
+        },
+        {
+            "id": 471,
+            "polish": "różnorodny",
+            "english": "varied"
+        },
+        {
+            "id": 472,
+            "polish": "męczący",
+            "english": "exhausting(egzasting)"
+        },
+        {
+            "id": 473,
+            "polish": "nudny/nieciekawy",
+            "english": "dull(dell)"
+        },
+        {
+            "id": 474,
+            "polish": "przedszkolanka",
+            "english": "kindergaten teacher"
+        },
+        {
+            "id": 475,
+            "polish": "opiekować się",
+            "english": "take care of/look after"
+        },
+        {
+            "id": 476,
+            "polish": "liceum",
+            "english": "high school"
+        },
+        {
+            "id": 477,
+            "polish": "cechy osobowości",
+            "english": "personality traits(trets)"
+        },
+        {
+            "id": 478,
+            "polish": "umiejętności",
+            "english": "abilities"
+        },
+        {
+            "id": 479,
+            "polish": "wymyślać",
+            "english": "come up with"
+        },
+        {
+            "id": 480,
+            "polish": "dostosowywać się",
+            "english": "adapt"
+        },
+        {
+            "id": 481,
+            "polish": "ambitny",
+            "english": "ambitious/ambition"
+        },
+        {
+            "id": 482,
+            "polish": "decydujący",
+            "english": "decisive(desajsiw)"
+        },
+        {
+            "id": 483,
+            "polish": "radzić sobie",
+            "english": "deal with"
+        },
+        {
+            "id": 484,
+            "polish": "zarządzać",
+            "english": "manage"
+        },
+        {
+            "id": 485,
+            "polish": "wymyślać",
+            "english": "invent"
+        },
+        {
+            "id": 486,
+            "polish": "czyli mówisz, że...?",
+            "english": "so, what you're saying is...?"
+        },
+        {
+            "id": 487,
+            "polish": "sposób, droga",
+            "english": "way"
+        },
+        {
+            "id": 488,
+            "polish": "unikać",
+            "english": "avoid"
+        },
+        {
+            "id": 489,
+            "polish": "nie spieszyć się",
+            "english": "take time"
+        },
+        {
+            "id": 490,
+            "polish": "zmierzyć się z problemem",
+            "english": "to force a problem"
+        },
+        {
+            "id": 491,
+            "polish": "przezwyciężyć problem",
+            "english": "to overcome a problem"
+        },
+        {
+            "id": 492,
+            "polish": "rozwiązywać problem",
+            "english": "to address a problem"
+        },
+        {
+            "id": 493,
+            "polish": "wspólnie",
+            "english": "common"
+        },
+        {
+            "id": 494,
+            "polish": "jaki jest problem?(grzecznie)",
+            "english": "What seems to be the problem?"
+        },
+        {
+            "id": 495,
+            "polish": "przyjżyjmy się temu bliżej",
+            "english": "Let's take a closer look at that"
+        },
+        {
+            "id": 496,
+            "polish": "pozwól, że to sprawdzę",
+            "english": "Let me look into that for you"
+        },
+        {
+            "id": 497,
+            "polish": "zrobie wszystko, żeby rozwiązać problem",
+            "english": "I'll do my best(to fix the problem)"
+        },
+        {
+            "id": 498,
+            "polish": "supernowoczesne",
+            "english": "state-of-the-art"
+        },
+        {
+            "id": 499,
+            "polish": "z wyższej półki",
+            "english": "sophisticated(sefistikejted)"
+        },
+        {
+            "id": 500,
+            "polish": "w razie",
+            "english": "in case"
+        },
+        {
+            "id": 501,
+            "polish": "robić kopie",
+            "english": "back up"
+        },
+        {
+            "id": 502,
+            "polish": "paść",
+            "english": "go down"
+        },
+        {
+            "id": 503,
+            "polish": "niektóre",
+            "english": "certain(sertn)"
+        },
+        {
+            "id": 504,
+            "polish": "dużo",
+            "english": "a lot of"
+        },
+        {
+            "id": 505,
+            "polish": "podczas",
+            "english": "as we go"
+        },
+        {
+            "id": 506,
+            "polish": "zachęcające",
+            "english": "engaging(engejdzing)"
+        },
+        {
+            "id": 507,
+            "polish": "wyciągające/urzekające",
+            "english": "captivating(kaptiwejting)"
+        },
+        {
+            "id": 508,
+            "polish": "dający do myślenia",
+            "english": "thought-provoking(fa prowołking)"
+        },
+        {
+            "id": 509,
+            "polish": "powtarzające się",
+            "english": "repetitive(repetetiw)"
+        },
+        {
+            "id": 510,
+            "polish": "monotonne",
+            "english": "monotonous(minotynys)"
+        },
+        {
+            "id": 511,
+            "polish": "zachęcać",
+            "english": "encourage(inkorydż)"
+        },
+        {
+            "id": 512,
+            "polish": "idzie Ci świetnie",
+            "english": "you are doing great"
+        },
+        {
+            "id": 513,
+            "polish": "polepszać/iść lepiej",
+            "english": "get better"
+        },
+        {
+            "id": 514,
+            "polish": "uzupełniając",
+            "english": "complementary(komplemenczri)"
+        },
+        {
+            "id": 515,
+            "polish": "wspólnie",
+            "english": "common"
+        },
+        {
+            "id": 516,
+            "polish": "ziemia",
+            "english": "ground"
+        },
+        {
+            "id": 517,
+            "polish": "łączyć siły",
+            "english": "join forces"
+        },
+        {
+            "id": 518,
+            "polish": "tworzyć spółki/partnerstwo",
+            "english": "form partnerships"
+        },
+        {
+            "id": 519,
+            "polish": "znaleźć wspólny język/dojść do porozumienia",
+            "english": "have/find common ground"
+        },
+        {
+            "id": 520,
+            "polish": "ściśle współpracować z",
+            "english": "work closely(klołsli) with"
+        },
+        {
+            "id": 521,
+            "polish": "troskliwy/rozważny",
+            "english": "considerate(konsideret)"
+        },
+        {
+            "id": 522,
+            "polish": "rozważny/przemyślany",
+            "english": "thoughtful(tfaful)"
+        },
+        {
+            "id": 523,
+            "polish": "szkoda",
+            "english": "it's a pity"
+        },
+        {
+            "id": 524,
+            "polish": "wygodny",
+            "english": "convenient(kenwinien)"
+        },
+        {
+            "id": 525,
+            "polish": "rozważać",
+            "english": "consider"
+        },
+        {
+            "id": 526,
+            "polish": "wynik/rezultat",
+            "english": "outcome"
+        },
+        {
+            "id": 527,
+            "polish": "spieszyć się",
+            "english": "rush"
+        },
+        {
+            "id": 528,
+            "polish": "porozmawiajmy",
+            "english": "let's talk"
+        },
+        {
+            "id": 529,
+            "polish": "zaproponować pomysł",
+            "english": "put forward an idea"
+        },
+        {
+            "id": 530,
+            "polish": "zdecydować się",
+            "english": "make up your mind"
+        },
+        {
+            "id": 531,
+            "polish": "dojść do wniosku",
+            "english": "reach a conclusion(ricz a konlużyn)"
+        },
+        {
+            "id": 532,
+            "polish": "wyrazić pomysł",
+            "english": "express an idea"
+        },
+        {
+            "id": 533,
+            "polish": "wątpliwości",
+            "english": "doubts(dałts)"
+        },
+        {
+            "id": 534,
+            "polish": "spowodować",
+            "english": "cause(koz)"
+        },
+        {
+            "id": 535,
+            "polish": "kłopoty",
+            "english": "trouble"
+        },
+        {
+            "id": 536,
+            "polish": "rozważać różne opinie",
+            "english": "consider different opinions"
+        },
+        {
+            "id": 537,
+            "polish": "rozróżnić",
+            "english": "distinguish(distingłisz)"
+        },
+        {
+            "id": 538,
+            "polish": "samodzielnie",
+            "english": "on my/their/your"
+        },
+        {
+            "id": 539,
+            "polish": "oczekiwać",
+            "english": "expect"
+        },
+        {
+            "id": 540,
+            "polish": "krótkoterminowy",
+            "english": "short term"
+        },
+        {
+            "id": 541,
+            "polish": "zamiast",
+            "english": "instead(insted)"
+        },
+        {
+            "id": 542,
+            "polish": "cele",
+            "english": "objectives(obdzektiws)"
+        },
+        {
+            "id": 543,
+            "polish": "grafik",
+            "english": "schedule(skedzułol)"
+        },
+        {
+            "id": 544,
+            "polish": "zasoby/środki",
+            "english": "resources"
+        },
+        {
+            "id": 545,
+            "polish": "umiejętności",
+            "english": "skills"
+        },
+        {
+            "id": 546,
+            "polish": "zdobywać nowe umiejętności",
+            "english": "gain new skills"
+        },
+        {
+            "id": 547,
+            "polish": "aktualny/zaktualizowany",
+            "english": "uptodate"
+        },
+        {
+            "id": 548,
+            "polish": "trudności",
+            "english": "difficulties"
+        },
+        {
+            "id": 549,
+            "polish": "nie ma co do tego wątpliwości",
+            "english": "no doubt about it"
+        },
+        {
+            "id": 550,
+            "polish": "przejdźmy do rzeczy",
+            "english": "let's get down to business"
+        },
+        {
+            "id": 551,
+            "polish": "przejdźmy dalej",
+            "english": "let's move on"
+        },
+        {
+            "id": 552,
+            "polish": "zalety",
+            "english": "advantages(edvenedzes)"
+        },
+        {
+            "id": 553,
+            "polish": "wady",
+            "english": "disadvantages"
+        },
+        {
+            "id": 554,
+            "polish": "powiedzieć coś",
+            "english": "say"
+        },
+        {
+            "id": 555,
+            "polish": "powiedzieć komuś",
+            "english": "tell"
+        },
+        {
+            "id": 556,
+            "polish": "rozmawiać/porozmawiać",
+            "english": "talk(tok)"
+        },
+        {
+            "id": 557,
+            "polish": "mówić",
+            "english": "speak"
+        },
+        {
+            "id": 558,
+            "polish": "nie załapałem tego",
+            "english": "I didn't quite(kłajt) catch that"
+        },
+        {
+            "id": 559,
+            "polish": "literować",
+            "english": "spell"
+        },
+        {
+            "id": 560,
+            "polish": "dowiedzieć się",
+            "english": "find out"
+        },
+        {
+            "id": 561,
+            "polish": "osobisty/nieosobisty",
+            "english": "personal/impersonal"
+        },
+        {
+            "id": 562,
+            "polish": "pytać o drogę",
+            "english": "ask for the way"
+        },
+        {
+            "id": 563,
+            "polish": "odprawa/zameldowanie",
+            "english": "check-in"
+        },
+        {
+            "id": 564,
+            "polish": "odbierać",
+            "english": "pick up"
+        },
+        {
+            "id": 565,
+            "polish": "wysadzić",
+            "english": "drop off"
+        },
+        {
+            "id": 566,
+            "polish": "pokazywać miejsce/oprowadzać",
+            "english": "show around"
+        },
+        {
+            "id": 567,
+            "polish": "poruszanie się",
+            "english": "getting around"
+        },
+        {
+            "id": 568,
+            "polish": "przypuszczać",
+            "english": "suppose(supołz)"
+        },
+        {
+            "id": 569,
+            "polish": "prosić o pomoc",
+            "english": "ask for help"
+        },
+        {
+            "id": 570,
+            "polish": "zapewniać/dostarczać",
+            "english": "provide"
+        },
+        {
+            "id": 571,
+            "polish": "przekonać",
+            "english": "persuade(persłejd)"
+        },
+        {
+            "id": 572,
+            "polish": "nie pożałujesz tego",
+            "english": "you won't regret it"
+        },
+        {
+            "id": 573,
+            "polish": "wyobraź to sobie",
+            "english": "just imagine"
+        },
+        {
+            "id": 574,
+            "polish": "modne",
+            "english": "in fashion"
+        },
+        {
+            "id": 575,
+            "polish": "z górnej półki",
+            "english": "top of the range"
+        },
+        {
+            "id": 576,
+            "polish": "wyrozumiały",
+            "english": "considerate(konsideret)"
+        },
+        {
+            "id": 577,
+            "polish": "nachalny",
+            "english": "pushy"
+        },
+        {
+            "id": 578,
+            "polish": "wytrwały",
+            "english": "persistent"
+        },
+        {
+            "id": 579,
+            "polish": "wcisnąć",
+            "english": "push"
+        },
+        {
+            "id": 580,
+            "polish": "wziąść pożyczkę",
+            "english": "take out a loan(lon)"
+        },
+        {
+            "id": 581,
+            "polish": "wypuścić nowy produkt",
+            "english": "launch a new product(prodakt)"
+        },
+        {
+            "id": 582,
+            "polish": "złożyć razem",
+            "english": "put together"
+        },
+        {
+            "id": 583,
+            "polish": "sztuczny",
+            "english": "artificial(artifiszal)"
+        },
+        {
+            "id": 584,
+            "polish": "pocić się",
+            "english": "sweat(słet)"
+        },
+        {
+            "id": 585,
+            "polish": "bezużyteczny",
+            "english": "useless(jusless)"
+        },
+        {
+            "id": 586,
+            "polish": "niedorzeczny",
+            "english": "ridiculous(redikulus)"
+        },
+        {
+            "id": 587,
+            "polish": "naładowany pracą",
+            "english": "workload"
+        },
+        {
+            "id": 588,
+            "polish": "zaangażowanie czasowe",
+            "english": "time commitment"
+        },
+        {
+            "id": 589,
+            "polish": "podatek",
+            "english": "tax"
+        },
+        {
+            "id": 590,
+            "polish": "wymyślny",
+            "english": "imaginative(amadzinativ)"
+        },
+        {
+            "id": 591,
+            "polish": "chwytliwy",
+            "english": "catchy"
+        },
+        {
+            "id": 592,
+            "polish": "przekonywujący",
+            "english": "persuasive(persłejsiw)"
+        },
+        {
+            "id": 593,
+            "polish": "zabawny",
+            "english": "witty"
+        },
+        {
+            "id": 594,
+            "polish": "mądry",
+            "english": "clever"
+        },
+        {
+            "id": 595,
+            "polish": "unikalny",
+            "english": "unique"
+        },
+        {
+            "id": 596,
+            "polish": "przekonywujący",
+            "english": "convincing(konwincing)"
+        },
+        {
+            "id": 597,
+            "polish": "złapanie uwagi",
+            "english": "grabs your attention"
+        },
+        {
+            "id": 598,
+            "polish": "podświadoma wiadomość",
+            "english": "subliminal messages(subliminal)"
+        },
+        {
+            "id": 599,
+            "polish": "krótkie spodnie",
+            "english": "shorts"
+        },
+        {
+            "id": 600,
+            "polish": "przyprawy",
+            "english": "spices"
+        },
+        {
+            "id": 601,
+            "polish": "nadgodziny",
+            "english": "do overtime"
+        },
+        {
+            "id": 602,
+            "polish": "czas wolny",
+            "english": "time off"
+        },
+        {
+            "id": 603,
+            "polish": "płatne wakacje, L4",
+            "english": "paid leave"
+        },
+        {
+            "id": 604,
+            "polish": "praca",
+            "english": "work"
+        },
+        {
+            "id": 605,
+            "polish": "ćwiczyć",
+            "english": "exercise"
+        },
+        {
+            "id": 606,
+            "polish": "przerwa w pracy",
+            "english": "a break"
+        },
+        {
+            "id": 607,
+            "polish": "podczas",
+            "english": "during"
+        },
+        {
+            "id": 608,
+            "polish": "wystarczająco",
+            "english": "enough"
+        },
+        {
+            "id": 609,
+            "polish": "zajęcia relaksacyjne na zewnątrz",
+            "english": "leisure(lejszur) activities outside"
+        },
+        {
+            "id": 610,
+            "polish": "wypalenie zawodowe",
+            "english": "burnout"
+        },
+        {
+            "id": 611,
+            "polish": "przepracowany",
+            "english": "overworked"
+        },
+        {
+            "id": 612,
+            "polish": "stresować się",
+            "english": "stress out"
+        },
+        {
+            "id": 613,
+            "polish": "spokojny umysł",
+            "english": "peace(pis) of mind"
+        },
+        {
+            "id": 614,
+            "polish": "zdrowe relacje",
+            "english": "healthy relationships"
+        },
+        {
+            "id": 615,
+            "polish": "spędzanie czasu z ukochanym",
+            "english": "spend time with loved ones"
+        },
+        {
+            "id": 616,
+            "polish": "jakie to jest?",
+            "english": "what is it like?"
+        },
+        {
+            "id": 617,
+            "polish": "różnice",
+            "english": "differences"
+        },
+        {
+            "id": 618,
+            "polish": "przyzwyczaić się",
+            "english": "get used to"
+        },
+        {
+            "id": 619,
+            "polish": "dość",
+            "english": "quite(kłajt)"
+        },
+        {
+            "id": 620,
+            "polish": "wyluzowany",
+            "english": "laid-back"
+        },
+        {
+            "id": 621,
+            "polish": "zwyczaje",
+            "english": "habits"
+        },
+        {
+            "id": 622,
+            "polish": "być w stanie",
+            "english": "being able"
+        },
+        {
+            "id": 623,
+            "polish": "odzwierciedlać",
+            "english": "reflect"
+        },
+        {
+            "id": 624,
+            "polish": "niezależny",
+            "english": "independently"
+        },
+        {
+            "id": 625,
+            "polish": "kolektywista/współpracujący w grupie",
+            "english": "collectivist"
+        },
+        {
+            "id": 626,
+            "polish": "witać się",
+            "english": "greeting each other"
+        },
+        {
+            "id": 627,
+            "polish": "zwyczaje jedzenia",
+            "english": "eating habtis"
+        },
+        {
+            "id": 628,
+            "polish": "indywidualista",
+            "english": "individualistic"
+        },
+        {
+            "id": 629,
+            "polish": "formalne/nieformalne",
+            "english": "formal/informal"
+        },
+        {
+            "id": 630,
+            "polish": "gościnny",
+            "english": "hospitable"
+        },
+        {
+            "id": 631,
+            "polish": "otwarty umysł",
+            "english": "open-minded"
+        },
+        {
+            "id": 632,
+            "polish": "hojny",
+            "english": "generous(dzenerous)"
+        },
+        {
+            "id": 633,
+            "polish": "troskliwy",
+            "english": "considerate"
+        },
+        {
+            "id": 634,
+            "polish": "potrzącać ręką",
+            "english": "shake hands"
+        },
+        {
+            "id": 635,
+            "polish": "pocałunek w policzek",
+            "english": "kiss on the cheek(czik)"
+        },
+        {
+            "id": 636,
+            "polish": "przytulanie",
+            "english": "hug"
+        },
+        {
+            "id": 637,
+            "polish": "wpływ",
+            "english": "impact"
+        },
+        {
+            "id": 638,
+            "polish": "społeczeństwo",
+            "english": "community(komjuniti)"
+        },
+        {
+            "id": 639,
+            "polish": "korupcja",
+            "english": "corruption(korapszon)"
+        },
+        {
+            "id": 640,
+            "polish": "skorumpowany",
+            "english": "corrupt(korapt)"
+        },
+        {
+            "id": 641,
+            "polish": "wartości",
+            "english": "values"
+        },
+        {
+            "id": 642,
+            "polish": "wartość",
+            "english": "worth(łorf)"
+        },
+        {
+            "id": 643,
+            "polish": "sprawiedliwość/uczciwość",
+            "english": "fairness(fejrness)"
+        },
+        {
+            "id": 644,
+            "polish": "sprawiedliwy",
+            "english": "fair(fejr)"
+        },
+        {
+            "id": 645,
+            "polish": "dyskryminacja",
+            "english": "discrimination"
+        },
+        {
+            "id": 646,
+            "polish": "dyskryminowany",
+            "english": "discriminated"
+        },
+        {
+            "id": 647,
+            "polish": "odpowiedzialność",
+            "english": "responsibility"
+        },
+        {
+            "id": 648,
+            "polish": "odpowiedzialny",
+            "english": "resposible(responsibol)"
+        },
+        {
+            "id": 649,
+            "polish": "przeźroczystość",
+            "english": "transparency"
+        },
+        {
+            "id": 650,
+            "polish": "przeźroczysty",
+            "english": "transparent"
+        },
+        {
+            "id": 651,
+            "polish": "dowiedzieć się",
+            "english": "found out"
+        },
+        {
+            "id": 652,
+            "polish": "kraść",
+            "english": "steal(still)"
+        },
+        {
+            "id": 653,
+            "polish": "świadek",
+            "english": "witness(łitness)"
+        },
+        {
+            "id": 654,
+            "polish": "płeć",
+            "english": "gender"
+        },
+        {
+            "id": 655,
+            "polish": "odmówić",
+            "english": "refuse"
+        },
+        {
+            "id": 656,
+            "polish": "wręczać coś",
+            "english": "hand something in"
+        },
+        {
+            "id": 657,
+            "polish": "mów głośniej",
+            "english": "speak up"
+        },
+        {
+            "id": 658,
+            "polish": "rozważać",
+            "english": "consider"
+        },
+        {
+            "id": 659,
+            "polish": "przeszło przez myśl",
+            "english": "cross your mind"
+        },
+        {
+            "id": 660,
+            "polish": "odchodzić",
+            "english": "quit(kłit)"
+        },
+        {
+            "id": 661,
+            "polish": "dość",
+            "english": "guite(kłajt)"
+        },
+        {
+            "id": 662,
+            "polish": "cichy",
+            "english": "quiet(kłajet)"
+        },
+        {
+            "id": 663,
+            "polish": "działalność charytatywna",
+            "english": "charity(czeriti)"
+        },
+        {
+            "id": 664,
+            "polish": "część",
+            "english": "portion(porszon)"
+        },
+        {
+            "id": 665,
+            "polish": "stawki/wynagrodzenie",
+            "english": "wages(łejdzes)"
+        },
+        {
+            "id": 666,
+            "polish": "sądzić/uważać/myśleć",
+            "english": "think about"
+        },
+        {
+            "id": 667,
+            "polish": "wymyślić",
+            "english": "think of"
+        },
+        {
+            "id": 668,
+            "polish": "świadomy/nieświadomy",
+            "english": "aware(ełer)/unaware(anełer)"
+        },
+        {
+            "id": 669,
+            "polish": "troskliwy",
+            "english": "thoughtful(tfaful)"
+        },
+        {
+            "id": 670,
+            "polish": "bezmyślny",
+            "english": "thoughtless(tfaless)"
+        },
+        {
+            "id": 671,
+            "polish": "sposób/droga",
+            "english": "way(wej)"
+        },
+        {
+            "id": 672,
+            "polish": "skupić się na",
+            "english": "focus on"
+        },
+        {
+            "id": 673,
+            "polish": "reklamy",
+            "english": "commercials"
+        },
+        {
+            "id": 674,
+            "polish": "lokowanie produktu",
+            "english": "product placement(prodakt plejsment)"
+        },
+        {
+            "id": 675,
+            "polish": "promocje",
+            "english": "promotions(promąszyns)"
+        },
+        {
+            "id": 676,
+            "polish": "przykuwać uwagę",
+            "english": "catch attention"
+        },
+        {
+            "id": 677,
+            "polish": "ciężarówka",
+            "english": "truck(trak)"
+        },
+        {
+            "id": 678,
+            "polish": "porywający/urzekający",
+            "english": "captivating(kaptiwejting)"
+        },
+        {
+            "id": 679,
+            "polish": "przekonywujący",
+            "english": "convincing(konwincing)"
+        },
+        {
+            "id": 680,
+            "polish": "oferty",
+            "english": "deals"
+        },
+        {
+            "id": 681,
+            "polish": "łatwy do zapamiętania/niezapomniany",
+            "english": "memorable(memorejbol)"
+        },
+        {
+            "id": 682,
+            "polish": "rozrywkowy",
+            "english": "entertaining(entertajning)"
+        },
+        {
+            "id": 683,
+            "polish": "rozrywka/zabawa",
+            "english": "entertaiment(enterijment)"
+        },
+        {
+            "id": 684,
+            "polish": "wpływać na kogoś",
+            "english": "influance(influłens)"
+        },
+        {
+            "id": 685,
+            "polish": "sfabrykowany",
+            "english": "fabricated(fabrikejted)"
+        },
+        {
+            "id": 686,
+            "polish": "realistyczny/nierealistyczny",
+            "english": "realistic/unrealistic"
+        },
+        {
+            "id": 687,
+            "polish": "zarabiać za mało",
+            "english": "underpaid"
+        },
+        {
+            "id": 688,
+            "polish": "wyczerpany",
+            "english": "exhausted(igzosted)"
+        },
+        {
+            "id": 689,
+            "polish": "dogadywać się z/współżyć",
+            "english": "get along with"
+        },
+        {
+            "id": 690,
+            "polish": "chyba",
+            "english": "I guess(aj gess)"
+        },
+        {
+            "id": 691,
+            "polish": "odejść z pracy",
+            "english": "quit the job(kłit de dżob)"
+        },
+        {
+            "id": 692,
+            "polish": "pomysłowy",
+            "english": "imaginative/inventive(inweniw)"
+        },
+        {
+            "id": 693,
+            "polish": "człowieczy",
+            "english": "personable"
+        },
+        {
+            "id": 694,
+            "polish": "zaangażowany",
+            "english": "committed"
+        },
+        {
+            "id": 695,
+            "polish": "dedykowane",
+            "english": "dedicated(dedikajted)"
+        },
+        {
+            "id": 696,
+            "polish": "dawać przykład",
+            "english": "lead by example"
+        },
+        {
+            "id": 697,
+            "polish": "być zorganizowanym",
+            "english": "be organised(bi orgenajz)"
+        },
+        {
+            "id": 698,
+            "polish": "komunikować się efektywnie",
+            "english": "communicate effectively(komunikejt efektiwli)"
+        },
+        {
+            "id": 699,
+            "polish": "chętny do współpracy",
+            "english": "cooperative/uncooperative"
+        },
+        {
+            "id": 700,
+            "polish": "wiarygodny/niewiarygodny",
+            "english": "reliable(rilajbol)/unreliable"
+        },
+        {
+            "id": 701,
+            "polish": "wydajny/niewydajny",
+            "english": "efficient(effeszyn)/inefficient"
+        },
+        {
+            "id": 702,
+            "polish": "zorganizowany/niezorganizowany",
+            "english": "organized(orgenajz)/disorganized"
+        },
+        {
+            "id": 703,
+            "polish": "odblokowanie",
+            "english": "unlocking(anloking)"
+        },
+        {
+            "id": 704,
+            "polish": "wymyślić rozwiązania",
+            "english": "come up with solutions"
+        },
+        {
+            "id": 705,
+            "polish": "nierówny podział obowiązku",
+            "english": "power imbalance(imbalanc)"
+        },
+        {
+            "id": 706,
+            "polish": "napotkać ścianę",
+            "english": "hit a brick wall(hit a brik łoll)"
+        },
+        {
+            "id": 707,
+            "polish": "nie ustępować",
+            "english": "won't budge(badż)"
+        },
+        {
+            "id": 708,
+            "polish": "przeszkoda",
+            "english": "obstacle(abstykol)"
+        },
+        {
+            "id": 709,
+            "polish": "zderzyć się z kimś",
+            "english": "clash(klasz) with someone"
+        },
+        {
+            "id": 710,
+            "polish": "obejść/poruszać się",
+            "english": "get around"
+        },
+        {
+            "id": 711,
+            "polish": "rozumiem do czego zmierzasz, ale",
+            "english": "I understand where you're coming from, but"
+        },
+        {
+            "id": 712,
+            "polish": "moglibyśmy dojść do porozumienia?",
+            "english": "could we come to an agreement(egriment) about?"
+        },
+        {
+            "id": 713,
+            "polish": "utknąć",
+            "english": "be/get stuck(stak)"
+        },
+        {
+            "id": 714,
+            "polish": "stracić wątek myślenia",
+            "english": "lose your train of thought(tfa)"
+        },
+        {
+            "id": 715,
+            "polish": "zgadzam się",
+            "english": "I agree"
+        },
+        {
+            "id": 716,
+            "polish": "to prawda",
+            "english": "It's true"
+        },
+        {
+            "id": 717,
+            "polish": "on stworzył",
+            "english": "he created"
+        },
+        {
+            "id": 718,
+            "polish": "on jest twórcą",
+            "english": "he is creator(krijejtor) of"
+        },
+        {
+            "id": 719,
+            "polish": "co sądzisz/myślisz?",
+            "english": "what do you think about?"
+        },
+        
+        {
+            "id": 720,
+            "polish": "jak myślisz co to...?",
+            "english": "what do you think is...?"
+        },
+        {
+            "id": 721,
+            "polish": "klasa sama w sobie",
+            "english": "in a class on their(der) own"
+        },
+        {
+            "id": 722,
+            "polish": "promować produkt",
+            "english": "promote(promołt) a product"
+        },
+        {
+            "id": 723,
+            "polish": "grupa docelowa",
+            "english": "target audience(audiens)"
+        },
+        {
+            "id": 724,
+            "polish": "ziemia",
+            "english": "ground"
+        },
+        {
+            "id": 725,
+            "polish": "trawa",
+            "english": "grass"
+        },
+        {
+            "id": 726,
+            "polish": "plac zabaw",
+            "english": "playground"
+        },
+        {
+            "id": 727,
+            "polish": "ścieżki rowerowe",
+            "english": "bicycle paths(pafs)/lanes(lejns)"
+        },
+        {
+            "id": 728,
+            "polish": "przedsiębiorca internetowy",
+            "english": "internet entrepreneur(antipronułer)"
+        },
+        {
+            "id": 729,
+            "polish": "prowadzić do",
+            "english": "lead"
+        },
+        {
+            "id": 730,
+            "polish": "wybierać najważniejsze",
+            "english": "prioritise"
+        },
+        {
+            "id": 731,
+            "polish": "nosić",
+            "english": "carry"
+        },
+        {
+            "id": 732,
+            "polish": "płatność",
+            "english": "payment"
+        },
+        {
+            "id": 733,
+            "polish": "społeczeństwo bezgotówkowe",
+            "english": "cashless society(kaszles szoszajeti)"
+        },
+        {
+            "id": 734,
+            "polish": "zawracanie głowy/dokuczanie",
+            "english": "a hassle(hasyl)"
+        },
+        {
+            "id": 735,
+            "polish": "wypłacać gotówkę",
+            "english": "withdraw money"
+        },
+        {
+            "id": 736,
+            "polish": "bardzo daleki",
+            "english": "a long way off"
+        },
+        {
+            "id": 737,
+            "polish": "dla ułatwienia",
+            "english": "for ease"
+        },
+        {
+            "id": 738,
+            "polish": "wydajny",
+            "english": "efficient(effeszyn)"
+        },
+        {
+            "id": 739,
+            "polish": "wpływ",
+            "english": "impact/influence"
+        },
+        {
+            "id": 740,
+            "polish": "czy wolałbyś",
+            "english": "would you rather"
+        },
+        {
+            "id": 741,
+            "polish": "zdecydowanie wole mieć... niż",
+            "english": "I'd much rather have a ... than a ..."
+        },
+        {
+            "id": 742,
+            "polish": "następujące/następny",
+            "english": "following"
+        },
+        {
+            "id": 743,
+            "polish": "poświęcić/poddać się",
+            "english": "give up"
+        },
+        {
+            "id": 744,
+            "polish": "być w stanie",
+            "english": "be willing"
+        },
+        {
+            "id": 745,
+            "polish": "awans",
+            "english": "promotion(promołszyn)"
+        },
+        {
+            "id": 746,
+            "polish": "od",
+            "english": "since(sins)"
+        },
+        {
+            "id": 747,
+            "polish": "nauka",
+            "english": "science(sajens)"
+        },
+        {
+            "id": 748,
+            "polish": "sens/poczucie/zmysł",
+            "english": "sense(sens)"
+        },
+        {
+            "id": 749,
+            "polish": "coś co się robiło wczęśniej a już nie",
+            "english": "used to"
+        },
+        {
+            "id": 750,
+            "polish": "zacząłem jako",
+            "english": "I started out as a"
+        },
+        {
+            "id": 751,
+            "polish": "satysfakcjonujący",
+            "english": "rewarding"
+        },
+        {
+            "id": 752,
+            "polish": "warte",
+            "english": "worthwhile(łorfłajl)"
+        },
+        {
+            "id": 753,
+            "polish": "wartościowe",
+            "english": "valuable"
+        },
+        {
+            "id": 754,
+            "polish": "budowa",
+            "english": "construction(konstrakszyn)"
+        },
+        {
+            "id": 755,
+            "polish": "analizować",
+            "english": "analise(eneliz)"
+        },
+        {
+            "id": 756,
+            "polish": "sukces",
+            "english": "success"
+        },
+        {
+            "id": 757,
+            "polish": "osiągający sukcesy(przymiotnik)",
+            "english": "successful"
+        },
+        {
+            "id": 758,
+            "polish": "succeed(czasownik)",
+            "english": "odnieść sukces"
+        },
+        {
+            "id": 759,
+            "polish": "osiągnięcie",
+            "english": "accomplishment(akompliszment)"
+        },
+        {
+            "id": 760,
+            "polish": "osiągać",
+            "english": "accomplish"
+        },
+        {
+            "id": 761,
+            "polish": "cel, obiektyw",
+            "english": "objective"
+        },
+        {
+            "id": 762,
+            "polish": "zamiar",
+            "english": "intention"
+        },
+        {
+            "id": 763,
+            "polish": "sposób",
+            "english": "way"
+        },
+        {
+            "id": 764,
+            "polish": "wygodny",
+            "english": "convenient"
+        },
+        {
+            "id": 765,
+            "polish": "tworzyć",
+            "english": "generate"
+        },
+        {
+            "id": 766,
+            "polish": "wpływ",
+            "english": "impact"
+        },
+        {
+            "id": 767,
+            "polish": "odnawialna",
+            "english": "renewable(reniuobol)"
+        },
+        {
+            "id": 768,
+            "polish": "normalna/powszechna",
+            "english": "common"
+        },
+        {
+            "id": 769,
+            "polish": "węgiel",
+            "english": "coal"
+        },
+        {
+            "id": 770,
+            "polish": "siła robocza",
+            "english": "workforce"
+        },
+        {
+            "id": 771,
+            "polish": "być",
+            "english": "is like"
+        },
+        {
+            "id": 772,
+            "polish": "łatwy w użyciu",
+            "english": "easy-to-use"
+        },
+        {
+            "id": 773,
+            "polish": "różnorodność",
+            "english": "diversity(diwersiti)"
+        },
+        {
+            "id": 774,
+            "polish": "różnorodny",
+            "english": "diverse"
+        },
+        {
+            "id": 775,
+            "polish": "szeroki/szeroko/ogromnie",
+            "english": "vastly(wastli)"
+        },
+        {
+            "id": 776,
+            "polish": "osiągnięcia",
+            "english": "achievement"
+        },
+        {
+            "id": 777,
+            "polish": "zdać bardzo dobrze",
+            "english": "pass an exam with flying colours"
+        },
+        {
+            "id": 778,
+            "polish": "istotnie",
+            "english": "significant(signifikent)"
+        },
+        {
+            "id": 779,
+            "polish": "przeszkoda",
+            "english": "obstacle"
+        },
+        {
+            "id": 780,
+            "polish": "znany",
+            "english": "popular"
+        },
+        {
+            "id": 781,
+            "polish": "być odpowiednim do",
+            "english": "be suitable for"
+        },
+        {
+            "id": 782,
+            "polish": "parter",
+            "english": "ground floor"
+        },
+        {
+            "id": 783,
+            "polish": "szczekać",
+            "english": "bark"
+        },
+        {
+            "id": 784,
+            "polish": "ile kosztuje bilet jednorazowy do Londynu?",
+            "english": "How much is a single ticket to London?"
+        },
+        {
+            "id": 785,
+            "polish": "ile to trwa?",
+            "english": "How long does it take?"
+        },
+        {
+            "id": 786,
+            "polish": "o której odjeżdża?",
+            "english": "What time does it depart?"
+        },
+        {
+            "id": 787,
+            "polish": "o której przyjedzie?",
+            "english": "What time does it arrive?"
+        },
+        {
+            "id": 788,
+            "polish": "z jakiego peronu odjeżdża?",
+            "english": "What platform does it leave from?"
+        },
+        {
+            "id": 789,
+            "polish": "zdobywać doświadczenie",
+            "english": "gain experience(gejn expiriens)"
+        },
+        {
+            "id": 790,
+            "polish": "pozyskać kapitał",
+            "english": "raise capital(rejs kapitol)"
+        },
+        {
+            "id": 791,
+            "polish": "wypadać poza grafik",
+            "english": "to fall behind schedule"
+        },
+        {
+            "id": 792,
+            "polish": "nadrabiać",
+            "english": "to catch up"
+        },
+        {
+            "id": 793,
+            "polish": "wracać na dobre tory",
+            "english": "to be back on track"
+        },
+        {
+            "id": 794,
+            "polish": "skończyć przed grafikiem/czasem",
+            "english": "to finish ahead of schedule"
+        },
+        {
+            "id": 795,
+            "polish": "iść zgodnie z planem",
+            "english": "to go according to plan"
+        },
+        {
+            "id": 796,
+            "polish": "tory",
+            "english": "track"
+        },
+        {
+            "id": 797,
+            "polish": "zależy od",
+            "english": "it depends"
+        },
+        {
+            "id": 798,
+            "polish": "jak się sprawy maja z nowym projektem?",
+            "english": "so, how are things going with the new project?"
+        },
+        {
+            "id": 799,
+            "polish": "na jakim etapie jesteśmy?",
+            "english": "where are we with this?"
+        },
+        {
+            "id": 800,
+            "polish": "jak do tej pory wszystko dobrze",
+            "english": "so far so good"
+        },
+        {
+            "id": 801,
+            "polish": "wszystko na torach(dobrze)",
+            "english": "everything's on track"
+        },
+        {
+            "id": 802,
+            "polish": "szkic",
+            "english": "draft"
+        },
+        {
+            "id": 803,
+            "polish": "jeśli mogę wolałbym nie",
+            "english": "I'd rather not if that's ok"
+        },
+        {
+            "id": 804,
+            "polish": "wolałbym tego nie robić",
+            "english": "I'd prefer not to do"
+        },
+        {
+            "id": 805,
+            "polish": "przepraszam nie mogę",
+            "english": "I'm sorry I can't"
+        },
+        {
+            "id": 806,
+            "polish": "obawiam się że jestem zajęty",
+            "english": "I'm afraid I'm busy"
+        },
+        {
+            "id": 807,
+            "polish": "dlaczego ty byś nie zrobił czegoś",
+            "english": "Why don't you..."
+        },
+        {
+            "id": 808,
+            "polish": "zostaw to dla mnie",
+            "english": "Leave it with me"
+        },
+        {
+            "id": 809,
+            "polish": "bezdomny",
+            "english": "homeless"
+        },
+        {
+            "id": 810,
+            "polish": "zamówić",
+            "english": "order"
+        },
+        {
+            "id": 811,
+            "polish": "zarezerwować",
+            "english": "book"
+        },
+        {
+            "id": 812,
+            "polish": "schronisko",
+            "english": "shelter(szelter)"
+        },
+        {
+            "id": 813,
+            "polish": "charytatywny",
+            "english": "charity(czariti)"
+        },
+        {
+            "id": 814,
+            "polish": "zapewniać/dostarczać",
+            "english": "to provide"
+        },
+        {
+            "id": 815,
+            "polish": "usługi",
+            "english": "services"
+        },
+        {
+            "id": 816,
+            "polish": "dbać",
+            "english": "care"
+        },
+        {
+            "id": 817,
+            "polish": "sprostać czyimś oczekiwaniom",
+            "english": "to meet somebody's expectations"
+        },
+        {
+            "id": 818,
+            "polish": "oceniać",
+            "english": "evaluate(inlułejt)"
+        },
+        {
+            "id": 819,
+            "polish": "mierzyć",
+            "english": "measure(meżur)"
+        },
+        {
+            "id": 820,
+            "polish": "gwarancja",
+            "english": "guarantee(gerentii)"
+        },
+        {
+            "id": 821,
+            "polish": "przystosowywać się",
+            "english": "adapt"
+        },
+        {
+            "id": 822,
+            "polish": "radzenie sobie z/zajmująca",
+            "english": "dealing with"
+        },
+        {
+            "id": 823,
+            "polish": "uczyć kogoś",
+            "english": "teach"
+        },
+        {
+            "id": 824,
+            "polish": "uczyć się",
+            "english": "learn"
+        },
+        {
+            "id": 825,
+            "polish": "zadowolony",
+            "english": "satisfied"
+        },
+        {
+            "id": 826,
+            "polish": "organizować",
+            "english": "arrange"
+        },
+        {
+            "id": 827,
+            "polish": "ustalić/naprawić",
+            "english": "fix"
+        },
+        {
+            "id": 828,
+            "polish": "niestety",
+            "english": "unfortunately"
+        },
+        {
+            "id": 829,
+            "polish": "bardzo często",
+            "english": "vary often"
+        },
+        {
+            "id": 830,
+            "polish": "poza zasięgiem",
+            "english": "off-limits"
+        },
+        {
+            "id": 831,
+            "polish": "osobiście",
+            "english": "in person"
+        },
+        {
+            "id": 832,
+            "polish": "czy  miałeś kłopot ze znalezieniem nas?",
+            "english": "did you have any troubles finding us"
+        },
+        {
+            "id": 833,
+            "polish": "płaszcz",
+            "english": "coat"
+        },
+        {
+            "id": 834,
+            "polish": "usiądź",
+            "english": "seat"
+        },
+        {
+            "id": 835,
+            "polish": "będę sie tego trzymał",
+            "english": "I'll hang onto it, thank you"
+        },
+        {
+            "id": 836,
+            "polish": "czujnik",
+            "english": "detector"
+        },
+        {
+            "id": 837,
+            "polish": "duże naruszenie bezpieczeństwa",
+            "english": "a major security breach"
+        },
+        {
+            "id": 838,
+            "polish": "kradzież tożsamości",
+            "english": "identity theft(ajdentity tfe)"
+        },
+        {
+            "id": 839,
+            "polish": "alarm przeciwwłamaniowy",
+            "english": "burglar alarm"
+        },
+        {
+            "id": 840,
+            "polish": "włamywacz",
+            "english": "burglar"
+        },
+        {
+            "id": 841,
+            "polish": "włamanie",
+            "english": "burglary"
+        },
+        {
+            "id": 842,
+            "polish": "zaniepokojony",
+            "english": "concerned(kensernd)"
+        },
+        {
+            "id": 843,
+            "polish": "zaspakając potrzeby",
+            "english": "how it meets your needs"
+        },
+        {
+            "id": 844,
+            "polish": "zakupy",
+            "english": "purchase(purczes)"
+        },
+        {
+            "id": 845,
+            "polish": "cechy",
+            "english": "qualities"
+        },
+        {
+            "id": 846,
+            "polish": "zwykły/bez dodatków/bez bajerów",
+            "english": "no-frills/plain"
+        },
+        {
+            "id": 847,
+            "polish": "dopasowane",
+            "english": "tailored/adapted"
+        },
+        {
+            "id": 848,
+            "polish": "krawiec",
+            "english": "tailor"
+        },
+        {
+            "id": 849,
+            "polish": "agent nieruchomości",
+            "english": "real estate"
+        },
+        {
+            "id": 850,
+            "polish": "sprzedawać",
+            "english": "sell"
+        },
+        {
+            "id": 851,
+            "polish": "dom starości",
+            "english": "retirement home"
+        },
+        {
+            "id": 852,
+            "polish": "sierociniec",
+            "english": "orphanage(orfynycz)"
+        },
+        {
+            "id": 853,
+            "polish": "kuchnia MOPSOWA",
+            "english": "soup kichten"
+        },
+        {
+            "id": 854,
+            "polish": "społeczeństwo",
+            "english": "community"
+        },
+        {
+            "id": 855,
+            "polish": "zbieranie środków",
+            "english": "fundraising"
+        },
+        {
+            "id": 856,
+            "polish": "zbieranie datków",
+            "english": "collect donations(donejszyns)"
+        },
+        {
+            "id": 857,
+            "polish": "wady",
+            "english": "disadvantaged"
+        },
+        {
+            "id": 858,
+            "polish": "biedny",
+            "english": "poor"
+        },
+        {
+            "id": 859,
+            "polish": "bieda",
+            "english": "poverty"
+        },
+        {
+            "id": 860,
+            "polish": "lubić",
+            "english": "like + ing"
+        },
+        {
+            "id": 851,
+            "polish": "chcieć",
+            "english": "like to"
+        }
+    ]
+}
