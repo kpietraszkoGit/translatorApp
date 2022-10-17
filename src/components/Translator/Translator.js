@@ -1,7 +1,7 @@
 import './Translator.css';
-import logo from 'C:/Users/DELL/Desktop/Przyszły Programista/programy/Strony internetowe i aplikacje/translatorapp/src/logolang.png';
+import logo from '../../logolang.png';
 import React, { useState } from 'react';
-const engpolfile = require('C:/Users/DELL/Desktop/Przyszły Programista/programy/Strony internetowe i aplikacje/translatorapp/src/resources/engpol.json');
+const engpolfile = require('../../resources/engpol.json');
 
 function Translator(props) {
     const {lang1, lang2} = props;
